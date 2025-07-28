@@ -1,0 +1,16 @@
+# Development tools
+pytest
+tox
+flake8
+black
+mypy
+isort
+
+
+# Jupyter and kernel
+ipykernel
+jupyterlab
+
+
+# Data versioning tool
+dvc
