@@ -1,3 +1,14 @@
 env/
 .qodo/
 
+__pycache__/
+*.py[cod]
+
+# Logs and artifacts
+logs/
+artifacts/
+mlruns/
+
+.DS_Store
+Thumbs.db
+
