@@ -14,7 +14,7 @@ list_of_files = [
     "src/pipeline/prediction_pipeline.py",
     "src/utils/__init__.py",
     "src/utils/utils.py",
-    "src/logg_/logging.py",
+    "src/logg_/logge.py",
     "src/exception/exception.py",
     "tests/unit/__init__.py",
     "tests/integration/__init__.py",
