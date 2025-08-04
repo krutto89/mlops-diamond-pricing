@@ -6,8 +6,7 @@ __pycache__/
 
 # Logs and artifacts
 logs/
-artifacts/
-mlruns/
+
 
 .DS_Store
 Thumbs.db

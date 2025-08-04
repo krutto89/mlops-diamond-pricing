@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/rutto/OneDrive/Desktop/mlops-final/mlruns/0/models/m-b61dfd3919354b909c079807f5d748b3/artifacts
+creation_timestamp: 1753791415530
+experiment_id: '0'
+last_updated_timestamp: 1753791430649
+model_id: m-b61dfd3919354b909c079807f5d748b3
+model_type: null
+name: model
+source_run_id: db6c55c846ec4ae69c975e3f5521df75
+status: 2
+status_message: null
