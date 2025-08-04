@@ -31,10 +31,12 @@ This project leverages **Machine Learning (ML)** integrated with an **MLOps work
 - **Python**
 - **Scikit-learn / Pandas / NumPy**
 - **Flask**
-- **MLflow / DVC (optional)**
-- **Docker (optional)**
+- **MLflow / DVC**
+- **Docker**
 - **Git & GitHub for version control**
 - **VS Code / Jupyter for development**
+- **Azure**
+- **Airflow**
 
 ---
 
